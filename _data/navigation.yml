@@ -1,4 +1,4 @@
 - name: Home
-  link: gage_blog/
+  link: /
 - name: About
-  link: gage_blog about.html
+  link: about.html
