@@ -1,1 +1,31 @@
-
+header {
+    border: 1px solid black;
+    height: 10%;
+}
+footer {
+    border: 1px solid black;
+    height: 10%
+}
+.navbar {
+    border: 1px solid black;
+    height: 5%;
+    width: 100%;
+    display: flex;
+}
+.blogbar {
+    border: 1px solid black;
+    width: 10%;
+    height: full;
+    text-align: center;
+    display: inline-block;
+}
+.content {
+    border: 1px solid black;
+    margin: 2%;
+    width: 70%;
+    height: full;
+    display: inline-block;
+}
+.current {
+  color: green;
+}
